@@ -23,7 +23,7 @@ This project focuses on predicting diabetes using a dataset containing various h
 - Plotly
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/yourusername/diabetes-prediction.git`
+1. Clone the repository: `git clone https://github.com/ammaremad/diabetes-prediction.git`
 2. Navigate to the project directory: `cd diabetes-prediction`
 3. Install the required packages: `pip install -r requirements.txt`
 4. Run the Jupyter Notebook: `jupyter notebook`
